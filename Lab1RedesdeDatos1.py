@@ -99,5 +99,12 @@ def analizar_archivo_pcap():
 
 
 if __name__ == "__main__":
+
+#Haga clic en Inicio > Configuración > Red e Internet.
+#En su conexión de área local, haga clic en Propiedades.
+#En asignación de IP, haga clic en Editar.
+#Elija Manual, active IPv4 e introduzca la Dirección IP. A continuación, haga clic en Guardar.
+
+
     print("Setting client")
     set_client()
